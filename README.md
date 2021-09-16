@@ -19,8 +19,8 @@ Profesor adjunto de la Pontificia Universidad Católica de Valparaíso, Chile.
 
 **CONTENIDOS**
 
-Semana 1: 
-Semana 2:
-Semana 3:
-Semana 4:
-Semana 5: 
+Semana 1:   
+Semana 2:  
+Semana 3:  
+Semana 4:  
+Semana 5:   
