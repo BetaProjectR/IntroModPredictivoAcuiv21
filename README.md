@@ -8,9 +8,9 @@ Estudiantes, profesionales o graduados relacionados con las ciencias de la acuic
 
 **Jonathan Daniel Acosta Salazar**  
 Doctor en Matemática por el consorcio de Pontificia Universidad Católica de Valparaíso - Universidad
-Técnica Federico Santa María - Universidad de Valparaíso.  
+Técnica Federico Santa María - Universidad de Valparaíso, Chile.  
 Ing. Civil Matemático con Mensión Estadística Aplicada, Universidad Técnica Federico
-Santa María, Valparaíso.
+Santa María, Chile.
 
 [**José Andrés Gallardo Matus**](https://github.com/DrJoseGallardo)  
 Doctor en Ciencias por la Universidad de Chile, Chile.  
