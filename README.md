@@ -7,15 +7,15 @@ Estudiantes, profesionales o graduados relacionados con las ciencias de la acuic
 **PROFESORES:**  
 
 **Jonathan Daniel Acosta Salazar**  
-Doctor en Matemática, Consorcio Pontificia Universidad Católica de Valparaíso - Universidad
-Técnica Federico Santa María - Universidad de Valparaíso, Valparaíso .
+Doctor en Matemática por el consorcio de Pontificia Universidad Católica de Valparaíso - Universidad
+Técnica Federico Santa María - Universidad de Valparaíso.  
 Ing. Civil Matemático con Mensión Estadística Aplicada, Universidad Técnica Federico
-Santa María, Valparaíso .
+Santa María, Valparaíso.
 
 [**José Andrés Gallardo Matus**](https://github.com/DrJoseGallardo)  
-Doctor en Ciencias por la Universidad de Chile, Chile.
-Biólogo Marino por la Universidad Católica de la Santísima Concepción, Chile.
-Profesor adjunto de la Pontificia Universidad Católica de Valparaíso, Chile.
+Doctor en Ciencias por la Universidad de Chile, Chile.  
+Biólogo Marino por la Universidad Católica de la Santísima Concepción, Chile.  
+Profesor adjunto de la Pontificia Universidad Católica de Valparaíso, Chile.  
 
 **CONTENIDOS**
 
