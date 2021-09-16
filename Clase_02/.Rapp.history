@@ -1,0 +1,2 @@
+citation()
+rm(list = ls())

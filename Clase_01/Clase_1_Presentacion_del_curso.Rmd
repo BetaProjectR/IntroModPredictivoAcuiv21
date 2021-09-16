@@ -1,0 +1,101 @@
+---
+title: "Clase 1 - Presentación del curso"
+subtitle: 'Curso Introducción al modelamiento predictivo para la acuicultura'
+author: Dr. José Gallardo Matus y Dr. Jonathan Acosta.  Pontificia Universidad Católica de Valparaíso  <jose.gallardo@pucv.cl>    
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: 
+  beamer_presentation:
+        includes:
+            in_header: mystyle.tex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## PLAN DE LA CLASE
+
+- Palabras de Bienvenida.
+
+- Presentación de los participantes.
+
+- Revisión del Programa del curso.
+
+- Revisión de recursos de comunicación y aprendizaje.
+
+- Lectura condiciones AEA abierta.
+
+## PROFESORES
+
+**Dr. José Gallardo**  
+Profesor adjunto PUCV  
+Doctor en Ciencias.  
+
+**Dr. Jonathan Acosta**   
+Profesor asociado PUC  
+Doctor en Matemáticas.  
+
+
+## OBJETIVOS DEL CURSO
+
+EL curso tiene como propósito que los estudiantes desarrollen habilidades para realizar análisis de datos en acuicultura usando el lenguaje de programación R.
+
+**Incluyendo**  
+
+- Fundamentos teóricos de la ciencia moderna del análisis de datos.  
+
+- Competencias prácticas claves para el almacenamiento, lectura, procesamiento y
+presentación de resultados bajo el paradigma de la investigación reproducible.
+
+## REQUISITOS
+
+- **Estadística**: curso aprobado de nivel universitario.  
+- **Programación básica con R**: Deseable pero no es excluyente.   
+Los alumnos sin experiencia previa deben considerar 8 horas de estudio adicional por semana.  
+- **Inglés**: Los software R, Rstudio, Rmarkdown y todas las librerías de análisis estadístico solo están disponibles en inglés.  
+
+## CONTENIDOS y CRITERIO DE APROBACIÓN DEL CURSO
+
+**CONTENIDOS** 
+
+- **UNIDAD 1**. ANALISIS EXPLORATORIO DE DATOS CON R, RSTUDIO Y
+RMARKDOWN.  
+
+- **UNIDAD 2**. PRUEBAS DE CONTRASTES DE HIPOTESIS PARAMETRICAS Y
+NO PARAMETRICAS.  
+
+- **UNIDAD 3**. MODELOS LINEALES.  
+
+**CRITERIO PARA ENTREGA DE CERTIFICADO** 
+
+Para obtener certificado de participación se requiere como mínimo
+
+- **Asistencia**: 80%.
+
+- **Realización de tareas**: 80%.
+
+## RECURSOS DE APRENDIZAJE Y COMUNICACIÓN
+
+- **Repositorio**: Todo el material disponible en Google Drive.
+
+- **Comunicación**: Foro de preguntas por SLACK.
+
+- **Material docente**: Diapositivas de clases, videos, guías de aprendizaje y códigos de programación para el análisis de datos con R.
+
+- **Rstudio**: Cuenta Rstudio.cloud por 1 mes.
+
+## CONDICIONES DE OPERACIÓN
+
+- **Nombre de la actividad de extensión académica:**  
+CURSO INTRODUCCIÓN AL ANÁLISIS DE DATOS CON R PARA LA ACUICULTURA.
+
+- **Resolución:**  
+118/2021.
+
+- **Fecha de ejecución:**  
+INICIO: 01/07/2021  
+TÉRMINO: 31/07/2021  
+
+- **Consultas, sugerencias y reclamos del curso:**
+<acuicultura@pucv.cl>  
+<oct@pucv.cl>  
