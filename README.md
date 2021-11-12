@@ -1,4 +1,4 @@
-# Curso Introducción al Modelamiento Predictico para la Acuicultura
+# Curso Introducción al Modelamiento Predictico para la Acuicultura (EN PREPARACIÓN)
 
 **DIRIGIDO A:**
 
